@@ -1,0 +1,14 @@
+.cover {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 1184px;
+  height: 740px;
+  margin: 0 auto;
+}
+
+.cover:hover {
+  opacity: .5;
+}

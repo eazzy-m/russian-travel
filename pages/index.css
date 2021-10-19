@@ -1,8 +1,8 @@
-@import "../styles/normalize.css";
-
-@import "../blocks/page/page.css";
+@import "../vendor/normalize.css";
 
 @import "../fonts/fonts.css";
+
+@import "../blocks/page/page.css";
 
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
@@ -24,7 +24,7 @@
 @import "../blocks/intro/__list-digit/intro__list-quantity.css";
 
 @import "../blocks/photo-grid/photo-grid.css";
-@import "../blocks/photo-grid/__image/photo-grid__item.css";
+@import "../blocks/photo-grid/__item/photo-grid__item.css";
 
 @import "../blocks/places/places.css";
 

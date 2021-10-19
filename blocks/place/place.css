@@ -6,6 +6,10 @@
   grid-gap: 48px 40px;
 }
 
+.place:first-of-type {
+  padding-top: 0;
+}
+
 .place:last-of-type {
   padding-bottom: 0;
 }

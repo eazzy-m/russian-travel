@@ -4,6 +4,7 @@
   z-index: 1;
   max-width: 560px;
   margin: 0;
+  margin-bottom: 32px;
   font-size: 72px;
   line-height: 76px;
   font-weight: 900;
@@ -14,5 +15,10 @@
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
+  }
+}
+@media screen and (max-width: 410px) {
+  .cover__title {
+    margin-bottom: 16px;
   }
 }
